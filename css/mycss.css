@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+
+
+/* this is a comment*/
+
+
+
+h1 {
+    text-align: center;
+    color: navy;
+    margin-left: 20px;
+}
+
+
+p  {
+
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+
+
+}
+#demo{
+
+    text-transform: full-width;
+    color: orange;
+    text-align: inherit;
+    font-size: 200%;
+
+
+}
